@@ -1,5 +1,7 @@
 __pycache__/
 .venv/
 
+connection_docker.ipynb
+
 *.csv
 *.txt

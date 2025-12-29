@@ -2,6 +2,7 @@ __pycache__/
 .venv/
 
 connection_docker.ipynb
+Results.ipynb
 
 *.csv
 *.txt
